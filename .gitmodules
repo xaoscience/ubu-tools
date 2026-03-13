@@ -1,0 +1,5 @@
+[submodule "wine-gaming"]
+	path = wine-gaming
+	url = https://github.com/XAOSTECH/wine-gaming.git
+
+
